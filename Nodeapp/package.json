@@ -1,0 +1,24 @@
+{
+ "name": "2545789-nodeapp",
+ "version" "1.0.0"
+ "descripation": "A Hello World HTTP server using node JS",
+ "main: "main.js",
+ "scripts": {
+    "test": "node test.js"
+    "start": "node main.js"
+   }
+ "repository": {
+     "type": "git",
+     "url": "http://github.com/richidana/Nodeapp"
+   },
+  "keywords": [
+     "node"
+     "docker",
+     "Dockerfile"
+   ],
+  "author": "yashsurwae35@gmail.com",
+  "lisense": "ISC",
+  "devdependencies": { "test": ">=0.6.0"}
+}   
+   
+   
